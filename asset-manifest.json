@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//github.com/joeytmab/Joeys-React-Portfolio/static/css/main.16ea1c38.css",
-    "main.js": "//github.com/joeytmab/Joeys-React-Portfolio/static/js/main.35ddf8ea.js",
-    "static/media/woofscreenshot2.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/woofscreenshot2.f2461e115dbf1317aa37.png",
-    "static/media/lotsothoughtsscreenshot.jpg": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/lotsothoughtsscreenshot.4ea28667f29ba8071577.jpg",
-    "static/media/barprogramconsultant.jpg": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/barprogramconsultant.cbcb009f66e550a89629.jpg",
-    "static/media/marvelquizscreenshot2.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/marvelquizscreenshot2.0465835ffb265103f0a7.png",
-    "static/media/resumescreenshot.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/resumescreenshot.b4f1c034e8595b43878e.png",
-    "static/media/githubprofilepic.jpg": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/githubprofilepic.fe1e9ca44f3160c91a1e.jpg",
-    "static/media/techblogscreenshot.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/techblogscreenshot.b108e2134ade996c571d.png",
-    "static/media/notetaker.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/notetaker.d9994cb88fdb848b8eeb.png",
-    "static/media/employeetracker.png": "//github.com/joeytmab/Joeys-React-Portfolio/static/media/employeetracker.e6b8df13bc25ef286b74.png",
-    "index.html": "//github.com/joeytmab/Joeys-React-Portfolio/index.html",
-    "main.16ea1c38.css.map": "//github.com/joeytmab/Joeys-React-Portfolio/static/css/main.16ea1c38.css.map",
-    "main.35ddf8ea.js.map": "//github.com/joeytmab/Joeys-React-Portfolio/static/js/main.35ddf8ea.js.map"
+    "main.css": "/Joeys-React-Portfolio/static/css/main.16ea1c38.css",
+    "main.js": "/Joeys-React-Portfolio/static/js/main.b985394b.js",
+    "static/media/woofscreenshot2.png": "/Joeys-React-Portfolio/static/media/woofscreenshot2.f2461e115dbf1317aa37.png",
+    "static/media/lotsothoughtsscreenshot.jpg": "/Joeys-React-Portfolio/static/media/lotsothoughtsscreenshot.4ea28667f29ba8071577.jpg",
+    "static/media/barprogramconsultant.jpg": "/Joeys-React-Portfolio/static/media/barprogramconsultant.cbcb009f66e550a89629.jpg",
+    "static/media/marvelquizscreenshot2.png": "/Joeys-React-Portfolio/static/media/marvelquizscreenshot2.0465835ffb265103f0a7.png",
+    "static/media/resumescreenshot.png": "/Joeys-React-Portfolio/static/media/resumescreenshot.b4f1c034e8595b43878e.png",
+    "static/media/githubprofilepic.jpg": "/Joeys-React-Portfolio/static/media/githubprofilepic.fe1e9ca44f3160c91a1e.jpg",
+    "static/media/techblogscreenshot.png": "/Joeys-React-Portfolio/static/media/techblogscreenshot.b108e2134ade996c571d.png",
+    "static/media/notetaker.png": "/Joeys-React-Portfolio/static/media/notetaker.d9994cb88fdb848b8eeb.png",
+    "static/media/employeetracker.png": "/Joeys-React-Portfolio/static/media/employeetracker.e6b8df13bc25ef286b74.png",
+    "index.html": "/Joeys-React-Portfolio/index.html",
+    "main.16ea1c38.css.map": "/Joeys-React-Portfolio/static/css/main.16ea1c38.css.map",
+    "main.b985394b.js.map": "/Joeys-React-Portfolio/static/js/main.b985394b.js.map"
   },
   "entrypoints": [
     "static/css/main.16ea1c38.css",
-    "static/js/main.35ddf8ea.js"
+    "static/js/main.b985394b.js"
   ]
 }
