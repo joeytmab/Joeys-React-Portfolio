@@ -38,7 +38,7 @@ const projects = [{
     title: 'Lotso Thoughts Social Media',
     picture: `${lotsothoughtspic}`,
     description: 'Constructed backend of an API-powered social media environment.',
-    git: 'https://github.com/monacoglynn/weather-tracker'
+    git: 'https://github.com/joeytmab/Lotso-Thoughts-Social-Media-Platform'
 },
 {
     title: 'MCU Trivia Quiz',
