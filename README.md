@@ -6,7 +6,7 @@ A portfolio redone and reupdated through the use of React.
 
 ## Deployed Link
 
-[My Heroku Link!](https://jate-is-great.herokuapp.com/)
+[Click here to visit my Portfolio.](https://joeytmab.github.io/Joeys-React-Portfolio/)
 
 ## Questions? Comments?
 
