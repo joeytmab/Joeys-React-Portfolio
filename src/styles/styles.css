@@ -221,15 +221,17 @@ span{
 
  /*--work projects page--*/
 .workprojects{
-    padding-right: 0;
-    padding-left: 0;
-    position: relative;
-    left: 10%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 115vh;
 }
 .thumbnail{
     background-color: #b7b7b7;
-    width: auto;
-    height: auto;
+    width: 350px;
+    height: 450px;
+    padding: 2em;
+    margin: 3rem;
     
 }
 
@@ -238,11 +240,9 @@ span{
     
 }
 
-#marvelquizcontainer{
-    width: auto;
-    height: 21.5em;
-}
 .thumbnail img{
+    width: 300px;
+    height: 270px;
     filter: opacity(0.2);
     filter: grayscale(0.8);
     transition: filter 0.4s ease-in-out;
@@ -258,20 +258,20 @@ span{
     cursor: pointer; 
 }
 
-.thumbnail h3 {
-    color: black;
-    background-color:#b7b7b7;
+.caption {
+    width: 300px;
+    margin-top: .5em;
 }
-
-
 .caption h3 {
     color:#414a7a;
     font-weight: bolder;
     letter-spacing: 0.5px;
+    font-size: 20px;
 }
 .caption p{
     color:#555;
     font-weight: bold;
+    font-size: 12px;
 }
 
 /* resume tab */
