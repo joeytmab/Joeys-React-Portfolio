@@ -18,7 +18,7 @@ export default function About() {
                     <br />
                     <p> More recently, I am currently enrolled in the UC San Diego Full Stack Program. <br />I am committed to getting a position
                     as a software engineer. Moreover, I am excited to merge both the interpersonal skills I've gained in the hospitality industry and my coding abilities to create
-                    opportunities for myself and my team.  
+                    opportunities for myself and my team. I would love to utilize my skills and become a Technical Project Manager one day.
                     </p>
                     <br />
                     <p>Adept in HTML, CSS, Javascript, MySQL, and the MERN stack (MongoDB, Express.JS, React, Node.JS). Experienced in web application development, both in front-end and back-end design.</p>
